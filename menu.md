@@ -18,3 +18,8 @@
   - Mała: 22 PLN
   - Średnia: 32 PLN
   - Duża: 42 PLN
+    
+- **Quattro Formaggi** - Sos pomidorowy, mozzarella, gorgonzola, parmezan, cheddar
+  - Mała: 30 PLN
+  - Średnia: 40 PLN
+  - Duża: 50 PLN
