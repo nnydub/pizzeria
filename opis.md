@@ -32,6 +32,28 @@ Tak, mamy w ofercie bezglutenowe ciasto do pizzy. Prosimy o poinformowanie nas p
 ### 6. Czy są dostępne opcje wegetariańskie i wegańskie?
 Tak, mamy w menu kilka opcji wegetariańskich, a także możliwość zamówienia pizzy z wegańskim serem.
 
+
 ## Pytania dotyczące płatności
 
 ### 7. Jakie formy płatności akceptujecie?
+Akceptujemy płatności gotówką, kartami płatniczymi (Visa, MasterCard) oraz płatności mobilne (Apple Pay, Google Pay).
+
+### 8. Czy oferujecie zniżki dla studentów?
+Tak, oferujemy 10% zniżki dla studentów po okazaniu ważnej legitymacji studenckiej.
+
+## Pytania dotyczące promocji i ofert specjalnych
+
+### 9. Jakie promocje obecnie oferujecie?
+Oferujemy kilka promocji, w tym "Happy Hour" codziennie od 15:00 do 17:00 z 20% zniżką na wszystkie pizze, oraz "Dwie pizze w cenie jednej" w każdy wtorek. Szczegóły można znaleźć w naszym menu.
+
+### 10. Czy oferujecie catering?
+Tak, oferujemy usługi cateringowe na specjalne zamówienia. Prosimy o kontakt telefoniczny lub emailowy w celu ustalenia szczegółów.
+
+## Pytania dotyczące lokalizacji i kontaktu
+
+### 11. Gdzie się znajdujecie?
+Nasza pizzeria znajduje się pod adresem: ul. Główna 123, 00-001 Miasto.
+
+### 12. Jak mogę się z wami skontaktować?
+Można się z nami skontaktować telefonicznie pod numerem (123) 456-789 lub przez email: kontakt@pizzeria.pl.
+
