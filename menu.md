@@ -61,3 +61,12 @@
 - Sok owocowy (pomarańczowy, jabłkowy, wieloowocowy)
   - Mała (0,33l): 7 PLN
   - Duża (0,5l): 10 PLN
+    
+### Napoje Alkoholowe
+
+- Piwo (butelkowe, różne rodzaje)
+  - Mała (0,33l): 10 PLN
+  - Duża (0,5l): 15 PLN
+
+- Wino (kieliszek, czerwone/białe)
+  - 12 PLN
