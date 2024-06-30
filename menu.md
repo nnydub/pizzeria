@@ -70,3 +70,18 @@
 
 - Wino (kieliszek, czerwone/białe)
   - 12 PLN
+
+## Desery
+
+- **Tiramisu** - Klasyczny włoski deser z kawą i mascarpone
+  - Cena: 15 PLN
+
+- **Panna Cotta** - Deser z gotowanej śmietany z dodatkiem wanilii i owoców
+  - Cena: 12 PLN
+
+- **Cannoli** - Chrupiące rurki wypełnione słodkim kremem ricotta
+  - Cena: 10 PLN
+
+- **Gelato** - Tradycyjne włoskie lody, różne smaki
+  - Mała porcja: 8 PLN
+  - Duża porcja: 12 PLN
