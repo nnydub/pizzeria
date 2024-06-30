@@ -5,3 +5,5 @@
 - Email: kontakt@pizzeria.pl
 - Instagram: @pizzeriacdv
 - WWW.pizzeriacdv.pl
+
+![image](https://github.com/nnydub/pizzeria/assets/174262232/6ae42fe3-2ccf-4f1c-ad7f-a5c36c741a6d)
