@@ -23,3 +23,15 @@
   - Mała: 30 PLN
   - Średnia: 40 PLN
   - Duża: 50 PLN
+
+### Specjalne
+
+- **Quattro Stagioni** - Sos pomidorowy, mozzarella, szynka, pieczarki, karczochy, oliwki
+  - Mała: 28 PLN
+  - Średnia: 38 PLN
+  - Duża: 48 PLN
+
+- **Capricciosa** - Sos pomidorowy, mozzarella, szynka, pieczarki, karczochy
+  - Mała: 27 PLN
+  - Średnia: 37 PLN
+  - Duża: 47 PLN
