@@ -53,3 +53,11 @@
 - Woda mineralna (niegazowana/gazowana)
   - Mała (0,33l): 5 PLN
   - Duża (0,5l): 7 PLN
+
+- Coca-Cola / Pepsi
+  - Mała (0,33l): 6 PLN
+  - Duża (0,5l): 9 PLN
+
+- Sok owocowy (pomarańczowy, jabłkowy, wieloowocowy)
+  - Mała (0,33l): 7 PLN
+  - Duża (0,5l): 10 PLN
