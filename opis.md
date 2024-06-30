@@ -21,3 +21,17 @@ Tak, oferujemy dostawę na terenie całego miasta. Koszt dostawy to 5 PLN, a dla
 ### 3. Czy można dokonać rezerwacji stolika?
 Tak, można dokonać rezerwacji stolika telefonicznie pod numerem (123) 456-789 lub przez nas
 
+## Pytania dotyczące menu
+
+### 4. Jakie rodzaje pizzy oferujecie?
+Oferujemy szeroki wybór pizzy, w tym klasyczne, specjalne i wegetariańskie opcje. Nasze menu można znaleźć [tutaj](menu.md).
+
+### 5. Czy oferujecie dania bezglutenowe?
+Tak, mamy w ofercie bezglutenowe ciasto do pizzy. Prosimy o poinformowanie nas podczas składania zamówienia.
+
+### 6. Czy są dostępne opcje wegetariańskie i wegańskie?
+Tak, mamy w menu kilka opcji wegetariańskich, a także możliwość zamówienia pizzy z wegańskim serem.
+
+## Pytania dotyczące płatności
+
+### 7. Jakie formy płatności akceptujecie?
