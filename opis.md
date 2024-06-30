@@ -57,3 +57,13 @@ Nasza pizzeria znajduje się pod adresem: ul. Główna 123, 00-001 Miasto.
 ### 12. Jak mogę się z wami skontaktować?
 Można się z nami skontaktować telefonicznie pod numerem (123) 456-789 lub przez email: kontakt@pizzeria.pl.
 
+## Inne
+
+### 13. Czy macie dostępne miejsca parkingowe?
+Tak, posiadamy bezpłatny parking dla naszych klientów tuż obok lokalu.
+
+### 14. Czy lokal jest przystosowany dla osób niepełnosprawnych?
+Tak, nasz lokal jest w pełni przystosowany dla osób niepełnosprawnych, w tym podjazd i toalety.
+
+### 15. Czy mogę zamówić jedzenie na wynos?
+Tak, oferujemy możliwość zamówienia jedzenia na wynos. Prosimy o kontakt telefoniczny lub zamówienie przez naszą stronę internetową.
