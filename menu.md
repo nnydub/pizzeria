@@ -1,9 +1,10 @@
-# Menu
+# Menu Pizzerii
 
-## Pizza Margherita
-- Składniki: Sos pomidorowy, mozzarella, bazylia
-- Cena: 20 PLN
+## Pizze
 
-## Pizza Pepperoni
-- Składniki: Sos pomidorowy, mozzarella, pepperoni
-- Cena: 25 PLN
+### Klasyczne
+
+- **Margherita** - Sos pomidorowy, mozzarella, bazylia
+  - Mała: 20 PLN
+  - Średnia: 30 PLN
+  - Duża: 40 PLN
