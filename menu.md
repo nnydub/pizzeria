@@ -35,3 +35,13 @@
   - Mała: 27 PLN
   - Średnia: 37 PLN
   - Duża: 47 PLN
+
+- **Vegetariana** - Sos pomidorowy, mozzarella, papryka, cebula, pieczarki, oliwki, kukurydza
+  - Mała: 25 PLN
+  - Średnia: 35 PLN
+  - Duża: 45 PLN
+
+- **Diavola** - Sos pomidorowy, mozzarella, pikantne salami, papryczki chili, cebula
+  - Mała: 29 PLN
+  - Średnia: 39 PLN
+  - Duża: 49 PLN
