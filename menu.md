@@ -45,3 +45,11 @@
   - Mała: 29 PLN
   - Średnia: 39 PLN
   - Duża: 49 PLN
+
+## Napoje
+
+### Napoje Bezalkoholowe
+
+- Woda mineralna (niegazowana/gazowana)
+  - Mała (0,33l): 5 PLN
+  - Duża (0,5l): 7 PLN
