@@ -13,3 +13,8 @@
   - Mała: 25 PLN
   - Średnia: 35 PLN
   - Duża: 45 PLN
+    
+- **Funghi** - Sos pomidorowy, mozzarella, pieczarki
+  - Mała: 22 PLN
+  - Średnia: 32 PLN
+  - Duża: 42 PLN
